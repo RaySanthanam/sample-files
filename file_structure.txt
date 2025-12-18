@@ -97,3 +97,32 @@ NAV(N:19.6)
 INV_IIN(N:16.0)
 FOLIO_OLD(C:50)
 SCHEME_FOL(C:13)
+
+
+
+
+
+
+
+
+
+{
+  "_id": "T1",
+  "investor_id": "INV001",
+  "folio_no": "F1234",
+  "scheme_code": "ICMF001",
+  "scheme_name": "Parag Parikh Flexi Cap – DG",
+  "option": "DIVIDEND",
+  "txn_id": "T1",
+  "txn_type": "BUY",
+  "txn_date": "2024-01-01",
+  "qty": 100,
+  "nav": 10.00,
+  "gross_amount": 1000.00,
+  "charges": 1.00,
+  "net_amount": 1001.00,
+  "broker": "Zerodha Coin",
+  "cash_flow_type": "OUTFLOW",
+  "cash_flow_amount": -1001.00,
+  "meta": {}
+}
